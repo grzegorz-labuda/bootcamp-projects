@@ -1,4 +1,4 @@
-(In progress)
+(In progres)
 
 Projects realized during infoShare Academy's Data Science Bootcamp.
 
